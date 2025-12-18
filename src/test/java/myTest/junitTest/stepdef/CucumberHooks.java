@@ -1,7 +1,7 @@
 package myTest.junitTest.stepdef;
 
-import org.junit.After;
-import org.junit.Before;
+import io.cucumber.java.Before;
+import io.cucumber.java.After;
 
 public class CucumberHooks extends BaseTest {
 
